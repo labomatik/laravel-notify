@@ -20,6 +20,8 @@ pre[class*="language-"] {
   margin-top: 0;
 }
 
+[x-cloak] { display: none; }
+
 /**
  * This injects all of Tailwind's utility classes, generated based on your
  * config file.
